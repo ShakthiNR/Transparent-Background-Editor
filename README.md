@@ -7,10 +7,9 @@
 5. At any point, the image can be downloaded from editor as PNG file with the transparent background.
 
 
-*Techstack: React Js, TailwindCss, HTML, CSS, HTMLtoPage(library), netlify(PAAS)*
+Techstack: React Js, TailwindCss, HTML, CSS, HTMLtoPage(library), netlify(PAAS)
 
-*Libraries Uses*: html-to-image"# Transparent-background-editor" 
 
-*Link to use* : https://frabjous-wisp-98345f.netlify.app/
+Link to use : https://frabjous-wisp-98345f.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/111413484/200483026-33242aa6-2fd8-48cc-b446-0c412409a54d.png)
