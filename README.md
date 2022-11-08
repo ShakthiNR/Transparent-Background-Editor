@@ -1,4 +1,6 @@
-**Implement transparent background editor**
+# Transparent Background Editor - React Js
+
+**Implemented transparent background editor**
 
 1. User should be able to upload only JPEG / PNG image file.
 2. Editor should display the uploaded image.
