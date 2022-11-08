@@ -5,6 +5,10 @@ Editor should display the uploaded image.
 User should be able to pick the background color from the image and provide as input to an input box in the editor.
 On entering the background color, the editor should replace the background color in the image with transparency.
 At any point, the image can be downloaded from editor as PNG file with the transparent background.
-Techstack: React Js TailwindCss HTML, CSS
+
+
+Techstack: React Js, TailwindCss, HTML, CSS, HTMLtoPage
 
 Libraries Uses: html-to-image"# Transparent-background-editor" 
+
+Link to use : https://frabjous-wisp-98345f.netlify.app/
